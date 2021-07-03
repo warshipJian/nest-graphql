@@ -8,5 +8,5 @@ npm i
 ## 使用
 本地调试
 ```
-npm run start:dev
+npm run dev
 ```
